@@ -40,6 +40,9 @@ client.on('message', message => {
 "Instgram",
 "Google",
 "Viber",
+"هل انتم هنا ام هناك",
+"لص",
+
 ];
         var x2 = ['DreamKing',
         "DeathGames",
